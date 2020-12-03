@@ -9,6 +9,6 @@
 
 #team .card-img-top {
 	width: auto;
-	height: 230px;
+  max-height: 230px;
 	object-fit: cover;
 }
